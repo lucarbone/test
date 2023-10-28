@@ -5,6 +5,6 @@ public class helloWorld{
 		int n = 5;
 		int n2 = 10;
 		System.out.println("Hello World!!");
-		System.out.println("Sommina :"+(n+n2));
+		System.out.println("Sommina: "+(n+n2));
 	}
 }
